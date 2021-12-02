@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: test1.ObjectSizeIns
+Agent-Class: test2.ObjectSizeIns2
+Created-By: 1.8.0_192 (Oracle Corporation)
+

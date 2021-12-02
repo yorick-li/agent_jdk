@@ -1,0 +1,3 @@
+Premain-Class: test1.ObjectSizeIns
+Agent-Class: test2.ObjectSizeIns2
+

@@ -1,0 +1,1 @@
+jar -cvfm java_agent.jar .\src\manifest.txt -C .\out\production\java_agent .
